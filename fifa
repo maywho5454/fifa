@@ -8,3 +8,32 @@ BOLA | FIFA CLUB WORLD CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=fifa2&type=m3u8
+
+#EXTINF:-1 group-title="BOLA | FIFA CLUB WORLD CUP" tvg-id="UEFA" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg",Live 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fifa1&type=m3u8
+
+#EXTINF:-1 group-title="BOLA | FIFA CLUB WORLD CUP" tvg-id="UEFA" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg",Live 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fifaclub1&type=m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="BOLA | FIFA CLUB WORLD CUP" group-title="BOLA | FIFA CLUB WORLD CUP",Live 4
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150143
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="BOLA | FIFA CLUB WORLD CUP" group-title="BOLA | FIFA CLUB WORLD CUP",Live 5
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150170
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="BOLA | FIFA CLUB WORLD CUP group-title="BOLA | FIFA CLUB WORLD CUP",Live 6
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150134
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="BOLA | FIFA CLUB WORLD CUP" group-title="BOLA | FIFA CLUB WORLD CUP",Live 7
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150152
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="BOLA | FIFA CLUB WORLD CUP" group-title="BOLA | FIFA CLUB WORLD CUP",Live 8
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150161
+
